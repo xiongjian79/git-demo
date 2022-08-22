@@ -25,10 +25,4 @@ this is test file to git
 this is test file to git
 this is test file to git
 this is test file to git
-this is test file to git
-this is test file to git
-this is test file to git
-this is test file to git
-this is test file to git
-this is test file to git
-this is test file to git
+this is secondary commit file
